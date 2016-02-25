@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">JPAL Immunisation Study</string>
+    <string name="action_settings">Settings</string>
+    <string name="district">District : </string>
+    <string name="phc">PHC : Govt. School</string>
+    <string name="anm">ANM : Parvesh Devi</string>
+    <string name="phone">Phone : 9812345908</string>
+    <string name="date">Date : 25/02/2016</string>
+    <string name="session_site">Session Site :</string>
+    <string name="save">Save</string>
+    <string name="hint_district">District Name</string>
+</resources>

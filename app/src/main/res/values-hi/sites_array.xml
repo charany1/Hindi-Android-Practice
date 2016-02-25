@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sites_array">
+        <item>जिंद</item>
+        <item>भिवानी</item>
+        <item>अंबाला</item>
+        <item>झज्जर</item>
+    </string-array>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hint_district">जिला</string>
+    <string name="app_name">JPAL टीकाकरण शौध</string>
+    <string name="district">जिला : दुबलाना</string>
+    <string name="phc">प्राथमिक स्वास्थ्य केंद्र : राजकीय विद्यालय</string>
+    <string name="anm">सहायक नर्स : परवेश देवी</string>
+    <string name="phone">फोन : 9812345908</string>
+    <string name="date">तिथि : 25/02/2016</string>
+    <string name="session_site">कार्य क्षेत्र: </string>
+    <string name="save">रक्षित करें</string>
+</resources>
